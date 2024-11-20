@@ -244,11 +244,16 @@ footer {
 
 
 @media (max-width: 1024px) {
+
+  .logo-nav img {
+    left: 24px;
+  }
+
   nav ul {
     gap: 37px;
     font-size: 1.5vw;
     top: 43px;
-    right: 17px;
+    /* right: 17px; */
   }
 
   .header-text {
