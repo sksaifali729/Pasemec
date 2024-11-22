@@ -255,11 +255,34 @@ footer {
 }
 
 
+@media (max-width: 1440px) {
+  nav ul {
+    right: 63px;
+  }
+
+  .header-text {
+    top: 320px;
+  }
+
+
+  .footer-container a {
+    font-size: 1.4vw;
+  }
+
+  .footer-nav a {
+    font-size: 1.2vw;
+  }
+
+  .footer-container p {
+    font-size: 1.2vw;
+  }
+}
+
 @media (max-width: 1024px) {
   nav ul {
     gap: 37px;
     font-size: 1.5vw;
-    top: 43px;
+    /* top: 43px; */
     right: 10px;
   }
 
@@ -292,27 +315,4 @@ footer {
     font-size: 1.6vw;
   }
 
-}
-
-@media (max-width: 1440px) {
-  nav ul {
-    right: 63px;
-  }
-
-  .header-text {
-    top: 320px;
-  }
-
-
-  .footer-container a {
-    font-size: 1.4vw;
-  }
-
-  .footer-nav a {
-    font-size: 1.2vw;
-  }
-
-  .footer-container p {
-    font-size: 1.2vw;
-  }
 }
