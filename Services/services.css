@@ -55,7 +55,7 @@ nav ul {
   gap: 70px;
   /* width: 94px; */
   height: 19px;
-  font-size: 1vw;
+  font-size: 1.4vw;
   top: 43px;
   right: 95px;
 }
@@ -206,6 +206,7 @@ footer {
 .footer-nav {
   font-size: 0.9vw;
   display: flex;
+  font-size: 1.3vw;
 }
 
 .footer-nav ul {
