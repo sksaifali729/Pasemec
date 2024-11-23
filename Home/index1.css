@@ -45,7 +45,7 @@ header {
   text-align: center;
 
   justify-content: center;
-  width: 1640px;
+  /* width: 1640px; */
   gap: 5px;
   filter: drop-shadow(9px 5px 5px #28282B);
 
@@ -537,7 +537,6 @@ footer {
   flex-direction: column;
   align-items: center;
   row-gap: 24px;
-  color: #01a627;
 }
 
 .footer-info {
