@@ -742,7 +742,7 @@ footer {
   .footer-info {
     text-decoration: none;
     font-weight: bolder;
-    font-size: larger;
+    /* font-size: larger; */
   }
 
   .footer-logo img {
